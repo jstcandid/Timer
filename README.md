@@ -1,2 +1,2 @@
 # Timer
-Timer TMS task
+Basic timer component :)
